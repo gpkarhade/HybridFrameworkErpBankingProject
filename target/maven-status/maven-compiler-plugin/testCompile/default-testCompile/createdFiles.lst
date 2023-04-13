@@ -1,0 +1,4 @@
+com\erpbanking\qa\testcases\DashboardTest.class
+com\erpbanking\qa\base\Base.class
+com\erpbanking\qa\testcases\LoginTest.class
+com\erpbanking\qa\testcases\LogoutTest.class
